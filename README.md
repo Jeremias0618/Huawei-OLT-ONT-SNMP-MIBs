@@ -1,5 +1,15 @@
 # Huawei OLT/ONT SNMP MIBs
 
+![GitHub](https://img.shields.io/badge/GitHub-Jeremias0618%2FHuawei--OLT--ONT--SNMP--MIBs-181717?style=flat-square&logo=github)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Jeremias0618.Huawei-OLT-ONT-SNMP-MIBs&left_color=gray&right_color=blue)
+![Huawei](https://img.shields.io/badge/Huawei-SmartAX%20MA5600T-FF6900?style=flat-square&logo=huawei)
+![SNMP](https://img.shields.io/badge/SNMP-v2c-orange?style=flat-square)
+![Ubuntu Server](https://img.shields.io/badge/Ubuntu%20Server-22.04%20LTS-E95420?style=flat-square&logo=ubuntu)
+![Linux](https://img.shields.io/badge/Linux-Supported-yellow?style=flat-square&logo=linux)
+![License](https://img.shields.io/badge/License-MIT-green?style=flat-square&logo=mit)
+
+**Topics:** `huawei` `snmp` `linux` `ubuntu-server-22.04` `olt` `ont` `gpon` `mibs` `network-monitoring` `telecommunications`
+
 This repository contains a comprehensive collection of SNMP MIBs and OIDs for monitoring and managing Huawei OLTs and ONTs.
 
 The OIDs in this collection are primarily from **Huawei SmartAX MA5600T/MA5603T/MA5608T OLTs**, but they should work on other Huawei OLT models as well.
